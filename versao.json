@@ -1,5 +1,5 @@
 {
-  "versao": "1.9.0",
-  "notas": "✅ Teste de atualização\n• Alterações no comandos/membros.js editação do ping",
-  "arquivosAtualizar": ["comandos/membros.js"]
+  "versao": "1.9.1",
+  "notas": "✅ Teste de atualização\n• Alterações no comandos/membros.js\n• Alteração do comando ping no index.js",
+  "arquivosAtualizar": ["comandos/membros.js", "index.js"]
 }
