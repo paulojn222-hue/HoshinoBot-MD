@@ -1,5 +1,5 @@
 {
-  "versao": "1.67.0",
-  "notas": "✅ Versão inicial do sistema de atualizações\n• Sistema !atualizar ativado\n• Sem arquivos modificados ainda",
-  "arquivosAtualizar": []
+  "versao": "1.68.0",
+  "notas": "✅ Teste de atualização\n• Alterações no comandos/membros.js",
+  "arquivosAtualizar": ["comandos/membros.js"]
 }
