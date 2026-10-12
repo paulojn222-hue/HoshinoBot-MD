@@ -1,5 +1,5 @@
 {
-  "versao": "1.5",
-  "notas": "✅ Teste de atualização\n• Alterações no membros.js\n• Alteração do comando ping",
-  "arquivosAtualizar": []
+  "versao": "1.6",
+  "notas": "✅ Teste de atualização",
+  "arquivosAtualizar": ["vips.js"]
 }
