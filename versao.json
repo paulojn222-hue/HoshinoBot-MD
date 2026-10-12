@@ -1,5 +1,5 @@
 {
   "versao": "3.0",
-  "notas": "✅ Teste de atualização !atualizar",
-  "arquivosAtualizar": ["comandos/vip.js"]
+  "notas": "✅ Teste de atualização no !ping foi adicionado um emoji",
+  "arquivosAtualizar": ["comandos/membros.js"]
 }
