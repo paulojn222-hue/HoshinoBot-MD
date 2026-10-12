@@ -1,5 +1,5 @@
 {
-  "versao": "1.6",
-  "notas": "✅ Teste de atualização",
-  "arquivosAtualizar": ["vips.js"]
+  "versao": "3.0",
+  "notas": "✅ Teste de atualização !atualizar",
+  "arquivosAtualizar": ["vip.js"]
 }
